@@ -1,0 +1,6 @@
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\bin\project.dll.config
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\bin\project.dll
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\bin\project.pdb
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\obj\Debug\project.dll
+C:\Users\Austin\Documents\GitHub\austech.github.io\project\project\obj\Debug\project.pdb
