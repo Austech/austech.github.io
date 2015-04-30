@@ -19,6 +19,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="ContentDownload\app.css" />
+    <Content Include="ContentDownload\css\bootstrap.css" />
+    <Content Include="ContentDownload\css\bootstrap.min.css" />
+    <Content Include="ContentDownload\css\grayscale.css" />
+    <Content Include="ContentDownload\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="ContentDownload\img\downloads-bg.jpg" />
+    <Content Include="ContentDownload\img\intro-bg.jpg" />
+    <Content Include="ContentDownload\img\main-bg.jpg" />
+    <Content Include="ContentDownload\index.html" />
+    <Content Include="ContentDownload\js\bootstrap.js" />
+    <Content Include="ContentDownload\js\bootstrap.min.js" />
+    <Content Include="ContentDownload\js\contentclient.js" />
+    <Content Include="ContentDownload\js\grayscale.js" />
+    <Content Include="ContentDownload\js\jquery.easing.min.js" />
+    <Content Include="ContentDownload\js\jquery.js" />
+    <Content Include="ContentDownload\js\socket.io.js" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
     <Content Include="css\bootstrap.css" />
@@ -38,12 +54,19 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="ContentDownload\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="ContentDownload\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="ContentDownload\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="ContentDownload\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
     <None Include="web.Release.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ContentDownload\font-awesome\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">12.0</VisualStudioVersion>
