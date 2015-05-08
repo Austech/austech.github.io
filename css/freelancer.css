@@ -80,8 +80,8 @@ hr.star-primary:after {
 }
 .img-project
 {
-    width: 360px;
-    height: 260px;
+    width:720px;
+    height:360px;
 }
 header {
     text-align: center;
@@ -216,7 +216,6 @@ section.success a.active {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
